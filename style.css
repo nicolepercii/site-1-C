@@ -39,3 +39,8 @@ p {
     font-size: 16px;
     color: black;
 }
+
+img {
+    height: 200px;
+    width: 200px;
+}
